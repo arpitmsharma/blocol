@@ -1,0 +1,2 @@
+# blocol
+Blog Collecting
